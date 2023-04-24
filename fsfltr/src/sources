@@ -1,0 +1,12 @@
+TARGETNAME=fsfltr
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+TARGETLIBS= \
+	$(DDK_LIB_PATH)\ntoskrnl.lib \
+	$(DDK_LIB_PATH)\hal.lib
+
+INCLUDES=..\inc;c:\WinDDK\6000\inc\ddk\;c:\WinDDK\6000\inc\api\
+
+SOURCES=fsfltr.cpp
+

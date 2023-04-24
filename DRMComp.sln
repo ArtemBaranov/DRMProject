@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KbdHook", "KbdHook\make\VS2005\KbdHook.vcproj", "{EBFCFB86-E086-4AAA-8572-35AC86A0C0A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KbdHookDll", "KbdHookDll\make\VS2005\KbdHookDll.vcproj", "{F6FACA32-D55F-402D-9380-D566092507D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KbdHookEx", "KbdHookEx\make\VS2005\KbdHookEx.vcproj", "{9D3EB2C3-84ED-4156-AB46-70D82D4CA356}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kbdhooksrv", "kbdhooksrv\make\VS2005\kbdhooksrv.vcproj", "{379DBC24-A805-4DCB-992D-F56DBBDA8F42}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kbdhookmsgs", "kbdhookmsgs\make\VS2005\kbdhookmsgs.vcproj", "{6F512C94-7F20-4B2F-801A-AAAFA2503769}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fsfltr", "fsfltr\make\VS2005\fsfltr.vcproj", "{29F17388-7C8C-4DFE-9083-2402FFFC10E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fsfltrtest", "fsfltrtest\make\VS2005\fsfltrtest.vcproj", "{FEEE7FA4-B32D-44C4-9B73-81BAB1C25B70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fsfltrprg", "fsfltrprg\make\VS2005\fsfltrprg.vcproj", "{586A31FC-864D-4CEE-9E26-662BEEFF2A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFCFB86-E086-4AAA-8572-35AC86A0C0A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBFCFB86-E086-4AAA-8572-35AC86A0C0A5}.Debug|Win32.Build.0 = Debug|Win32
+		{EBFCFB86-E086-4AAA-8572-35AC86A0C0A5}.Release|Win32.ActiveCfg = Release|Win32
+		{EBFCFB86-E086-4AAA-8572-35AC86A0C0A5}.Release|Win32.Build.0 = Release|Win32
+		{F6FACA32-D55F-402D-9380-D566092507D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6FACA32-D55F-402D-9380-D566092507D6}.Debug|Win32.Build.0 = Debug|Win32
+		{F6FACA32-D55F-402D-9380-D566092507D6}.Release|Win32.ActiveCfg = Release|Win32
+		{F6FACA32-D55F-402D-9380-D566092507D6}.Release|Win32.Build.0 = Release|Win32
+		{9D3EB2C3-84ED-4156-AB46-70D82D4CA356}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D3EB2C3-84ED-4156-AB46-70D82D4CA356}.Debug|Win32.Build.0 = Debug|Win32
+		{9D3EB2C3-84ED-4156-AB46-70D82D4CA356}.Release|Win32.ActiveCfg = Release|Win32
+		{9D3EB2C3-84ED-4156-AB46-70D82D4CA356}.Release|Win32.Build.0 = Release|Win32
+		{379DBC24-A805-4DCB-992D-F56DBBDA8F42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{379DBC24-A805-4DCB-992D-F56DBBDA8F42}.Debug|Win32.Build.0 = Debug|Win32
+		{379DBC24-A805-4DCB-992D-F56DBBDA8F42}.Release|Win32.ActiveCfg = Release|Win32
+		{379DBC24-A805-4DCB-992D-F56DBBDA8F42}.Release|Win32.Build.0 = Release|Win32
+		{6F512C94-7F20-4B2F-801A-AAAFA2503769}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F512C94-7F20-4B2F-801A-AAAFA2503769}.Debug|Win32.Build.0 = Debug|Win32
+		{6F512C94-7F20-4B2F-801A-AAAFA2503769}.Release|Win32.ActiveCfg = Release|Win32
+		{6F512C94-7F20-4B2F-801A-AAAFA2503769}.Release|Win32.Build.0 = Release|Win32
+		{29F17388-7C8C-4DFE-9083-2402FFFC10E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29F17388-7C8C-4DFE-9083-2402FFFC10E3}.Debug|Win32.Build.0 = Debug|Win32
+		{29F17388-7C8C-4DFE-9083-2402FFFC10E3}.Release|Win32.ActiveCfg = Release|Win32
+		{29F17388-7C8C-4DFE-9083-2402FFFC10E3}.Release|Win32.Build.0 = Release|Win32
+		{FEEE7FA4-B32D-44C4-9B73-81BAB1C25B70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEEE7FA4-B32D-44C4-9B73-81BAB1C25B70}.Debug|Win32.Build.0 = Debug|Win32
+		{FEEE7FA4-B32D-44C4-9B73-81BAB1C25B70}.Release|Win32.ActiveCfg = Release|Win32
+		{FEEE7FA4-B32D-44C4-9B73-81BAB1C25B70}.Release|Win32.Build.0 = Release|Win32
+		{586A31FC-864D-4CEE-9E26-662BEEFF2A67}.Debug|Win32.ActiveCfg = Debug|Win32
+		{586A31FC-864D-4CEE-9E26-662BEEFF2A67}.Debug|Win32.Build.0 = Debug|Win32
+		{586A31FC-864D-4CEE-9E26-662BEEFF2A67}.Release|Win32.ActiveCfg = Release|Win32
+		{586A31FC-864D-4CEE-9E26-662BEEFF2A67}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
