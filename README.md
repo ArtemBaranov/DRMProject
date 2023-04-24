@@ -4,5 +4,5 @@ Decided to upload this old project to GitHub. This is the source code from my gr
 * Keylogger with advanced features, it saves keystrokes with the current keyboard layout to the specified files and is activated before the user is authenticated in the system.
 * Separate user mode tools for testing aforementioned features.
 <picture>
-  <img alt="" src="http://artemonsecurity.com/kbd.png">
+  <img alt="" src="http://artemonsecurity.com/kbd1.png">
 </picture>
