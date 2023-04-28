@@ -5,5 +5,5 @@ Decided to upload this old project to GitHub. This is the source code from my gr
 * Separate user mode tools for testing aforementioned features.
 <picture>
   <img alt="" src="http://artemonsecurity.com/kbd1.png">
-  Architecture of the keylogger components.
 </picture>
+Architecture of the keylogger components.
