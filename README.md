@@ -3,7 +3,8 @@ Decided to upload this old project to GitHub. This is the source code from my gr
 * Legacy FS filter with features such as providing blocking access to file operations and hiding files for specific processes.
 * Keylogger with advanced features, it saves keystrokes with the current keyboard layout to the specified files and is activated before the user is authenticated in the system. It includes a driver, DLL that provides API to the driver and a Windows service.
 * Separate user mode tools for testing aforementioned features.
+
+Architecture of the keylogger components.
 <picture>
   <img alt="" src="http://artemonsecurity.com/kbd1.png">
 </picture>
-Architecture of the keylogger components.
