@@ -9,4 +9,4 @@ Architecture of the keylogger components.
   <img alt="" src="http://artemonsecurity.com/kbd1.png">
 </picture>
 # Build
-It can be built with modern versions of Visual Studio, previously converting the solution and project files automatically.
+It can be built with modern versions of Visual Studio, having previously converted the solution and project files (automatically).
