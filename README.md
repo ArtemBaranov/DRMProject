@@ -5,8 +5,8 @@ Decided to upload this old project to GitHub. This is the source code from my gr
 * Separate user mode tools for testing aforementioned features.
 
 Architecture of the keylogger components.
-<picture>
-  <img alt="" src="http://artemonsecurity.com/kbd1.png">
-</picture>
+
+![alt text](https://github.com/user-attachments/assets/924cfeb7-ba07-433e-9d2c-44d46fed423b)
+
 # Build
 It can be built with modern versions of Visual Studio, having previously converted the solution and project files (automatically).
